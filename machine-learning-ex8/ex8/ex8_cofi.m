@@ -99,7 +99,6 @@ fprintf(['Cost at loaded parameters (lambda = 1.5): %f '...
 fprintf('\nProgram paused. Press enter to continue.\n');
 pause;
 
-
 %% ======= Part 5: Collaborative Filtering Gradient Regularization ======
 %  Once your cost matches up with ours, you should proceed to implement 
 %  regularization for the gradient. 
